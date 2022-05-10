@@ -1,0 +1,11 @@
+{
+    "book": [
+        {
+            "id": 1,
+            "name": "book1",
+            "category": "category1",
+            "quantity": 1,
+            "price": 20
+        }
+    ]
+}
