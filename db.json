@@ -1,18 +1,20 @@
 {
-  "book": [
+  "book":[
     {
-      "id": 0,
-      "name": "book1",
-      "category": "category1",
-      "quantity": 1,
-      "price": 20
+      "name": "sach 1",
+      "category": "truyen tranh",
+      "quantity": "5",
+      "price": "20",
+      "img": "https://haycafe.vn/wp-content/uploads/2021/11/Anh-avatar-dep-chat-lam-hinh-dai-dien.jpg",
+      "id": 0
     },
     {
-      "id": "1",
-      "name": "book2",
-      "category": "category2",
+      "name": "ok ",
+      "category": "test loai",
       "quantity": "5",
-      "price": "20"
+      "price": "20",
+      "img": "https://haycafe.vn/wp-content/uploads/2021/11/Anh-avatar-dep-chat-lam-hinh-dai-dien.jpg",
+      "id": "1"
     }
   ]
 }
